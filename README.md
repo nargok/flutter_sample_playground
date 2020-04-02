@@ -1,4 +1,4 @@
-# timer
+# Flutter sample app
 
 A new Flutter application.
 
